@@ -1,0 +1,15 @@
+C:\Users\Крыса\Documents\VS\Donskih1\bin\Debug\net7.0\Donskih1.exe
+C:\Users\Крыса\Documents\VS\Donskih1\bin\Debug\net7.0\Donskih1.deps.json
+C:\Users\Крыса\Documents\VS\Donskih1\bin\Debug\net7.0\Donskih1.runtimeconfig.json
+C:\Users\Крыса\Documents\VS\Donskih1\bin\Debug\net7.0\Donskih1.dll
+C:\Users\Крыса\Documents\VS\Donskih1\bin\Debug\net7.0\Donskih1.pdb
+C:\Users\Крыса\Documents\VS\Donskih1\obj\Debug\net7.0\Donskih1.csproj.AssemblyReference.cache
+C:\Users\Крыса\Documents\VS\Donskih1\obj\Debug\net7.0\Donskih1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Крыса\Documents\VS\Donskih1\obj\Debug\net7.0\Donskih1.AssemblyInfoInputs.cache
+C:\Users\Крыса\Documents\VS\Donskih1\obj\Debug\net7.0\Donskih1.AssemblyInfo.cs
+C:\Users\Крыса\Documents\VS\Donskih1\obj\Debug\net7.0\Donskih1.csproj.CoreCompileInputs.cache
+C:\Users\Крыса\Documents\VS\Donskih1\obj\Debug\net7.0\Donskih1.dll
+C:\Users\Крыса\Documents\VS\Donskih1\obj\Debug\net7.0\refint\Donskih1.dll
+C:\Users\Крыса\Documents\VS\Donskih1\obj\Debug\net7.0\Donskih1.pdb
+C:\Users\Крыса\Documents\VS\Donskih1\obj\Debug\net7.0\Donskih1.genruntimeconfig.cache
+C:\Users\Крыса\Documents\VS\Donskih1\obj\Debug\net7.0\ref\Donskih1.dll
